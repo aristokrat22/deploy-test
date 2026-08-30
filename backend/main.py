@@ -12,8 +12,8 @@ def get_items():
     items = [
         {
             "id": 1,
-            "name": "Docker",
-            "img": "https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png",
+            "name": "КЛЕПА ТЫ",
+            "img": "https://www.svgrepo.com/show/349342/docker.svg",
         },
         {
             "id": 2,
