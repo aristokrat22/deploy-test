@@ -12,7 +12,7 @@ def get_items():
     items = [
         {
             "id": 1,
-            "name": "КЛЕПА ТЫ",
+            "name": "Docker",
             "img": "https://www.svgrepo.com/show/349342/docker.svg",
         },
         {
